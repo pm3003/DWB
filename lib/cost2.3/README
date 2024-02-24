@@ -1,0 +1,14 @@
+
+Contents:
+
+    costinit.tcl	-- Cost Initialization file (always loaded)
+    Core.tcl		-- Core Cost utilities (always loaded)
+    Simple.tcl		-- 'Simple' translation module
+    EventHandler.itcl	-- ITCL base class for Cost event handlers 
+    Numerals.tcl	-- Roman numerals, etc.
+    Counters.tcl	-- Utilities for numbering sections, figures, etc.
+    rtflib.tcl
+    RTF.spec		-- the RATFINK package
+    htmllib.tcl		-- HTML generation utilities (work in progress) 
+    latex.tcl		-- LaTeX generation utilities (work in progress)
+

@@ -1,0 +1,375 @@
+# =========================================================
+#     DEUTSCHES WÖRTERBUCH VON JACOB UND WILHELM GRIMM
+#                        
+#   ENTWICKELT IM FACH GERMANISTIK DER UNIVERSITÄT TRIER
+#                IN ZUSAMMENARBEIT MIT DEM
+#  KOMPETENZZENTRUM FÜR ELEKTRONISCHE ERSCHLIESSUNGS- UND
+#    PUBLIKATIONSVERFAHREN IN DEN GEISTESWISSENSCHAFTEN
+# ---------------------------------------------------------
+#                     BEARBEITET VON
+#     HANS-WERNER BARTZ, THOMAS BURCH, RUTH CHRISTMANN,
+#      KURT GÄRTNER, VERA HILDENBRANDT, THOMAS SCHARES
+#
+#        COPYRIGHT (C) 1998, 1999, 2000, 2001, 2002
+# BY KOMPETENZZENTRUM FÜR ELEKTRONISCHE ERSCHLIESSUNGS- UND
+#    PUBLIKATIONSVERFAHREN IN DEN GEISTESWISSENSCHAFTEN
+#                 AN DER UNIVERSITÄT TRIER
+#
+# All Rights reserved.
+# No part of this publication may be reprinted or reporduced
+# or utilized in any form or by any electronic (online or
+# offline), mechnical or other means without permissions in
+# writing from the publisher.
+# CD-ROM copyright by HWB, TB, RC, KG, VH and TS.
+# 
+# Trier, November 2002
+# =========================================================
+# TclPro::Compiler::Include
+
+if {[catch {package require tbcload 1.3} err] == 1} {
+    error "The TclPro ByteCode Loader is not available or does not support the correct version"
+}
+tbcload::bceval {
+TclPro ByteCode 1 0 1.3 8.3
+4 0 44 14 0 0 48 0 4 4 4 -1 -1
+44
+1WE<!(H&s!/HW<!4E`<!3)Ppv6P60%2/YQ#5/o9v3&|=!8oJ=!7KE!!
+4
+B=xOw
+4
+L4@4w
+14
+x
+4
+,CHr@
+x
+16
+%I_oAcBW88k4C,;=Jd#H
+x
+18
+bO|;@3.G<FagbSA8u_TAb:%
+p
+9 0 83 14 0 0 36 0 6 9 9 -1 -1
+83
+w0E<!-BW<!:,9s!'E&s!?AU3w1G^3w2G^3w@I/I&/fvpv7c8X!;KW<!;Yw4w6;kpv2,tl#<M
+o=!5GRRw8YpiwfD/p++K/s!<J#t!)'!!
+9
+CpO'(?.@4w-!
+9
+Lx3o#OxR8#'!
+14
+x
+6
+q'-W@Dhw
+x
+8
+i4eX?4|k)F
+x
+0
+
+x
+8
+^&*QA7E0bE
+x
+24
+/pLkB3Q<JDGu_TAmbEMBMW`j/OhXA5
+x
+1
+L!
+x
+14
+r|*DF%5_|3-2_`FUhw
+x
+5
+4UQ<@>v
+x
+2
+tyv
+x
+5
+49BCF1v
+x
+6
+49BCF_(%
+x
+2
+Qew
+x
+4
+&i:vH
+x
+6
+82_`FWnw
+0
+0
+3 6
+6
+bO|;@ISw
+0 0 257
+5
+pgpgC1v
+1 0 257
+5
+5B0bEEv
+2 0 257
+6
+7,V`FW+%
+3 0 1
+3
+uxQ,
+4 0 1
+5
++4ZSA:v
+5 0 1
+x
+20
+%I_oAcBW88fyeM9WNX.;=Jd#H
+x
+34
+bO|;@3.G<FagbSA8u_TAKa,!F#aMTAi9MTA/f!/DT+%
+p
+9 0 91 14 0 0 36 0 10 9 9 -1 -1
+91
+w0E<!-BW<!<8Ks!'E&s!?AU3w1G^3w2G^3w3G^3w4G^3wFaSI&1fvpv9i8X!=QW<!;Yw4w8;
+kpv2,tl#<Mo=!5GRRw8YpiwhPAp++K/s!>yYUv)'!!
+9
+Kc)X*?.@4w-!
+9
+T6'p#OxR8#'!
+14
+x
+6
+q'-W@Dhw
+x
+8
+i4eX?4|k)F
+x
+0
+
+x
+8
+^&*QA7E0bE
+x
+28
+/pLkB3Q<JD<T@MC(!`TAmbEMBMW`j/OhXA5
+x
+1
+L!
+x
+14
+r|*DF%5_|3-2_`FUhw
+x
+5
+4UQ<@>v
+x
+2
+tyv
+x
+5
+49BCF1v
+x
+6
+49BCF_(%
+x
+2
+Qew
+x
+4
+&i:vH
+x
+6
+82_`FWnw
+0
+0
+5 8
+6
+bO|;@ISw
+0 0 257
+5
+pgpgC1v
+1 0 257
+5
+5B0bEEv
+2 0 257
+9
+1QG)FiQ&(F1v
+3 0 257
+5
+#R.lB@v
+4 0 257
+6
+7,V`FW+%
+5 0 1
+3
+uxQ,
+6 0 1
+5
++4ZSA:v
+7 0 1
+x
+7
+bCLf:bdD-
+x
+25
+bO|;@3.G<FagbSA(*Z8A-#wj@5Z90D:v
+p
+9 0 87 14 0 0 36 0 8 9 9 -1 -1
+87
+w0E<!-BW<!;2Bs!'E&s!?AU3w1G^3w2G^3w3G^3wCUAI&0fvpv8f8X!<NW<!;Yw4w7;kpv2,
+tl#<Mo=!5GRRw8YpiwgJ8p++K/s!=S>:v)'!!
+9
+G?g?)?.@4w-!
+9
+PsWo#OxR8#'!
+14
+x
+6
+q'-W@Dhw
+x
+8
+i4eX?4|k)F
+x
+0
+
+x
+8
+^&*QA7E0bE
+x
+22
+/pLkB3Q<JD<)fCF=uG(=i=sr@v6#
+x
+1
+L!
+x
+14
+r|*DF%5_|3-2_`FUhw
+x
+5
+4UQ<@>v
+x
+2
+tyv
+x
+5
+49BCF1v
+x
+6
+49BCF_(%
+x
+2
+Qew
+x
+4
+&i:vH
+x
+6
+82_`FWnw
+0
+0
+4 7
+6
+bO|;@ISw
+0 0 257
+5
+pgpgC1v
+1 0 257
+5
+mxoRADv
+2 0 257
+6
++uk_FRnw
+3 0 257
+6
+7,V`FW+%
+4 0 1
+3
+uxQ,
+5 0 1
+5
++4ZSA:v
+6 0 1
+x
+8
+bCLf:3Kb@G
+x
+16
+!>oC+bO|;@3.G<FagbSA
+p
+9 0 83 14 0 0 36 0 6 9 9 -1 -1
+83
+w0E<!-BW<!:,9s!'E&s!?AU3w1G^3w2G^3w@I/I&/fvpv7c8X!;KW<!;Yw4w6;kpv2,tl#<M
+o=!5GRRw8YpiwfD/p++K/s!<J#t!)'!!
+9
+CpO'(?.@4w-!
+9
+Lx3o#OxR8#'!
+14
+x
+6
+q'-W@Dhw
+x
+8
+i4eX?4|k)F
+x
+0
+
+x
+8
+^&*QA7E0bE
+x
+23
+/pLkB3Q<JD@<HSA|yv8A|mo=F0:b'
+x
+1
+L!
+x
+14
+r|*DF%5_|3-2_`FUhw
+x
+5
+4UQ<@>v
+x
+2
+tyv
+x
+5
+49BCF1v
+x
+6
+49BCF_(%
+x
+2
+Qew
+x
+4
+&i:vH
+x
+6
+82_`FWnw
+0
+0
+3 6
+3
+Vq|+
+0 0 257
+6
+bO|;@ISw
+1 0 257
+5
+pgpgC1v
+2 0 257
+6
+7,V`FW+%
+3 0 1
+3
+uxQ,
+4 0 1
+5
++4ZSA:v
+5 0 1
+x
+15
+rpwhC;Z2b3<?<+EfqT+
+0
+0
+}

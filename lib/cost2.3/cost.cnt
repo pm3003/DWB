@@ -1,0 +1,37 @@
+:BASE cost.HLP
+1 Cost 2 Reference Manual
+2  Introduction=TOPIC-1
+2 Running Cost
+3  Running Cost=TOPIC-2
+3  Environment Variables=TOPIC-3
+3  Loading documents=TOPIC-4
+3  Running  costsh=TOPIC-5
+3  Option processing=TOPIC-6
+2 Element Structure
+3  Element Structure=TOPIC-7
+3  General properties=TOPIC-8
+3  Element nodes=TOPIC-9
+3  Data nodes=TOPIC-10
+3  Entities=TOPIC-11
+3  Attributes=TOPIC-12
+2 Queries
+3  Queries=TOPIC-13
+3  Syntax=TOPIC-14
+3  Examples=TOPIC-15
+3  Query commands=TOPIC-16
+3  Navigational clauses=TOPIC-17
+3  Addressing=TOPIC-18
+3  Miscellaneous clauses=TOPIC-19
+2 Other Stuff...
+2  Specifications=TOPIC-20
+2  Application Properties=TOPIC-21
+2  Event handlers=TOPIC-22
+2  Links and relations=TOPIC-23
+2 Miscellaneous utilities
+3  Miscellaneous utilities=TOPIC-24
+3  Environments=TOPIC-25
+3  Substitutions=TOPIC-26
+3  Miscellaneous SGML utilities=TOPIC-27
+3  Numerals=TOPIC-28
+3  Miscellaneous Miscellaneous=TOPIC-29
+3  Script management=TOPIC-30

@@ -1,0 +1,77 @@
+# TclPro::Compiler::Include
+
+if {[catch {package require tbcload 1.3} err] == 1} {
+    error "The TclPro ByteCode Loader is not available or does not support the correct version"
+}
+tbcload::bceval {
+TclPro ByteCode 1 0 1.3 8.3
+1 0 11 5 0 0 8 0 4 1 1 -1 -1
+11
+(<E<!(H&s!+-!!
+1
+z
+1
++!
+5
+x
+4
+,CHr@
+x
+11
+M!d&FY8q8@Utf+
+x
+8
+m'cSAnjkSA
+p
+5 0 55 11 0 0 24 0 4 5 5 -1 -1
+55
+w0E<!.c&v!/HW<!*E`<!3)Ppv,K&s!/iyTv4,o9v)?W<!0c8=!8fAs!-o=6#45YQ#+-!!
+5
+B=xOw,!
+5
+M=xOw+!
+11
+x
+8
+n%_|3m'cSA
+x
+4
+*dmID
+x
+3
+R('(
+x
+8
+n%_|33Kb@G
+x
+6
+-c>gD`+%
+x
+9
++s_j/X&!97t!
+x
+35
+rq;*:30`J:'7?I:a1H@=CM?|=+V4w<3H2B+yq+i9U3w)
+x
+4
+3'8UA
+i
+0
+x
+9
++s_j/_SOF;%v
+x
+16
+@Qu87)Sje:9M<*:Z=Hc;
+0
+0
+1 1
+8
+m'cSAnjkSA
+0 0 257
+x
+15
+rpwhC;Z2b3<?<+EfqT+
+0
+0
+}

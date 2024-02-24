@@ -1,0 +1,17 @@
+#!/bin/sh
+
+TCL_LIBRARY=./lib/tcl8.3
+export TCL_LIBRARY
+TK_LIBRARY=./lib/tk8.3
+export TK_LIBRARY
+TIX_LIBRARY=./lib/tix8.1
+export TIX_LIBRARY
+#BLT_LIBRARY=/home/burch/MhdWB/lib/blt2.4
+#export BLT_LIBRARY
+LD_LIBRARY_PATH=./lib
+export LD_LIBRARY_PATH
+
+xset fp+ ./Fonts
+./bin/wish8.3 Src/Main.tcl $1
+xset fp- ./Fonts
+

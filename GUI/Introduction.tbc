@@ -1,0 +1,352 @@
+# =========================================================
+#     DEUTSCHES WÖRTERBUCH VON JACOB UND WILHELM GRIMM
+#                        
+#   ENTWICKELT IM FACH GERMANISTIK DER UNIVERSITÄT TRIER
+#                IN ZUSAMMENARBEIT MIT DEM
+#  KOMPETENZZENTRUM FÜR ELEKTRONISCHE ERSCHLIESSUNGS- UND
+#    PUBLIKATIONSVERFAHREN IN DEN GEISTESWISSENSCHAFTEN
+# ---------------------------------------------------------
+#                     BEARBEITET VON
+#     HANS-WERNER BARTZ, THOMAS BURCH, RUTH CHRISTMANN,
+#      KURT GÄRTNER, VERA HILDENBRANDT, THOMAS SCHARES
+#
+#        COPYRIGHT (C) 1998, 1999, 2000, 2001, 2002
+# BY KOMPETENZZENTRUM FÜR ELEKTRONISCHE ERSCHLIESSUNGS- UND
+#    PUBLIKATIONSVERFAHREN IN DEN GEISTESWISSENSCHAFTEN
+#                 AN DER UNIVERSITÄT TRIER
+#
+# All Rights reserved.
+# No part of this publication may be reprinted or reporduced
+# or utilized in any form or by any electronic (online or
+# offline), mechnical or other means without permissions in
+# writing from the publisher.
+# CD-ROM copyright by HWB, TB, RC, KG, VH and TS.
+# 
+# Trier, November 2002
+# =========================================================
+# TclPro::Compiler::Include
+
+if {[catch {package require tbcload 1.3} err] == 1} {
+    error "The TclPro ByteCode Loader is not available or does not support the correct version"
+}
+tbcload::bceval {
+TclPro ByteCode 1 0 1.3 8.3
+2 0 22 7 0 0 24 0 4 2 2 -1 -1
+22
+*BE<!(H&s!/HW<!-E`<!/#Gpv%!!
+2
+,B!
+2
+6?!
+7
+x
+4
+,CHr@
+x
+21
+VpbSAxqnFD1Lc8A-jmlBEqw%=c!
+x
+3
+uju,
+p
+14 0 152 36 0 0 64 0 8 14 14 -1 -1
+152
+w0E<!-fSs!/H<<!,EN<!1#Gpv9u&s!3`vpv2/YQ#6G:3w1NW<!CqH4w<4`H&1oA=!6Y60%@.
+mf%>h2-&1`8X!/HW<!FD5>!N4`H&<:JE'B=e`'?I+'(8,tl#REb|(I.2R#0NE<!X%2?!a^!s
+v4oA=!`D!s*^D<9+B=e`'JWVT+RI2R#0NE<!0W&=!NKE!!
+14
+9ncf%AD(qvR3LC(Ef!
+14
+Ts&h%Uw'lwX9T2%B?!
+36
+x
+6
+q'-W@Dhw
+x
+8
+i4eX?4|k)F
+x
+4
+/#cDF
+x
+10
+Lh5DFqN`aE=Gw
+x
+9
+9|G@GfO5SA@v
+x
+4
+=AhEF
+x
+6
+sN;oAGYw
+x
+6
+BQ?<@PSw
+x
+6
+4Qs/DDhw
+x
+11
+ugrp@+KTfDit|+
+x
+7
+D'n2As=e&
+x
+5
+,=;oA;v
+x
+8
+72%BG!dRQB
+x
+5
+1@XU@?v
+x
+4
+uKhgC
+x
+5
+4/;EFA!
+x
+7
+#<mIDmX2-
+x
+3
+v4i-
+x
+8
+!pmlBgF5SA
+x
+9
+)!FeD::be0.v
+x
+5
+a(|RA8v
+x
+4
+53qgC
+x
+6
+1^T;@CSw
+x
+6
+/#DvH<rv
+x
+12
+=D5cE*8.BG!dRQB
+i
+0
+x
+6
+'aMTA|+%
+x
+3
+Yt|+
+x
+2
+4<!
+x
+9
+p*a:@;&IN1A!
+x
+6
+*+Z8A|4%
+x
+6
+hIa:@PSw
+x
+7
+H;=JDl?`-
+x
+6
+03%lBLnw
+x
+6
+vZbDFN%%
+x
+8
+n-6<@dR|7A
+0
+0
+1 4
+3
+uju,
+0 0 257
+5
+=AhEFCv
+1 0 1
+4
+/dRQB
+2 0 1
+7
+>c5DF`1w,
+3 0 1
+x
+21
+VpbSAxqnFD1Lc8A-jmlBQa*`<&v
+p
+23 0 265 44 0 0 96 0 8 23 23 -1 -1
+265
+w0E<!-fSs!/H<<!,EN<!1#Gpv9u&s!3`vpv2/YQ#/HW<!?e64w<4`H&1oA=!4GUNw<k60%<V
+QK%1`8X!/HW<!B8#>!FD5>!P@rH&<:JE'B=e`'?I+'(FUFB(FnPpv0NE<!Vt(?!_Xmrv4oA=
+!Pd3-&x/xW*B=e`'HEur*PC2R#0NE<!Vt(?!eXmrv4oA=!V|C?)a5%!*9GL3w=nt>!`U%@!K
+lJs!Fa'w)aeSQ,Iq5Uv0NE<!Vt(?!s?ssv4oA=!V|C?)fD%!*9GL3w=nt>!esR@!KlJs!Fa'
+w)f=10.Iq5Uv0NE<!Vt(?!nXmrv4oA=!0#>6#W@p9vz
+23
+9ncf%=D(qvR'Y+'_*O1%UaN1%HABv
+23
+POdOwUw'lwy-02%_aN1%UaN1%E/'v
+44
+x
+6
+q'-W@Dhw
+x
+8
+i4eX?4|k)F
+x
+4
+/#cDF
+x
+10
+Lh5DFqN`aE=Gw
+x
+9
+9|G@GfO5SA@v
+x
+4
+=AhEF
+x
+6
+sN;oAGYw
+x
+6
+BQ?<@PSw
+x
+6
+4Qs/DDhw
+x
+5
+,=;oA;v
+x
+8
+72%BG!dRQB
+x
+5
+1@XU@?v
+x
+4
+uKhgC
+x
+5
+4/;EFA!
+x
+7
+#<mIDmX2-
+x
+5
+kX54B1v
+x
+6
+hIa:@PSw
+x
+5
+3ikDF;v
+x
+5
+5KxhC1v
+x
+17
+Wc*+Eto8(F9?uW@U%KkB2v
+x
+5
+a(|RA8v
+x
+4
+53qgC
+x
+6
+1^T;@CSw
+x
+11
+ugrp@+KTfDit|+
+x
+6
+/#DvH<rv
+x
+6
+'aMTA|+%
+x
+3
+Yt|+
+x
+4
+Hvqm#
+x
+9
+p*a:@</di1A!
+x
+6
+*+Z8A|4%
+x
+7
+H;=JDl?`-
+x
+6
+03%lBLnw
+x
+6
+vZbDFN%%
+x
+43
+2y#.8%<|^Fs^Y4Bg9mID@ysJD(c/bE`r*_F*+cOBV&1p5b4oRA|kf+
+x
+29
+gb/bEuyn(F1QG)F_@omA4btD+sDL66wg%lB:v
+x
+35
+#mtD+pQ6<@%xmIDgx|RA7q3'D.u>0AZ21p5b4oRA|kf+
+x
+35
+gb/bEuyn(F1QG)F_@omA4btD+#r)j7/tFEFpm5SAN''v
+x
+18
+d`7hC-lC&G.B8UAoN3JDS(%
+x
+9
+p*a:@:r-31A!
+x
+44
+2_6OAgx|RA.QfCF9mtD+(%DE+Gx|RA;Gu)F)x!iCNM7OA-p<JD@ysJD
+x
+48
+eq,>+Qd|RA(IB08%LaPA03s/D6?f8/,/->+SabOBD<59/-2->+XEm.D:EG9/
+x
+50
+!P->+XEm.D:EG9/:Y->+|rJbEuAYTAB(RKD(5:JD(c/bEWaFW@-,)*F0^7hCHSw
+x
+23
+BTk_x73=JD'btD+@+uD+bNB08qgc,
+x
+8
+n-6<@dR|7A
+0
+0
+1 4
+3
+uju,
+0 0 257
+5
+=AhEFCv
+1 0 1
+4
+/dRQB
+2 0 1
+7
+>c5DF`1w,
+3 0 1
+x
+15
+rpwhC;Z2b3<?<+EfqT+
+0
+0
+}

@@ -1,0 +1,340 @@
+# =========================================================
+#     DEUTSCHES WÖRTERBUCH VON JACOB UND WILHELM GRIMM
+#                        
+#   ENTWICKELT IM FACH GERMANISTIK DER UNIVERSITÄT TRIER
+#                IN ZUSAMMENARBEIT MIT DEM
+#  KOMPETENZZENTRUM FÜR ELEKTRONISCHE ERSCHLIESSUNGS- UND
+#    PUBLIKATIONSVERFAHREN IN DEN GEISTESWISSENSCHAFTEN
+# ---------------------------------------------------------
+#                     BEARBEITET VON
+#     HANS-WERNER BARTZ, THOMAS BURCH, RUTH CHRISTMANN,
+#      KURT GÄRTNER, VERA HILDENBRANDT, THOMAS SCHARES
+#
+#        COPYRIGHT (C) 1998, 1999, 2000, 2001, 2002
+# BY KOMPETENZZENTRUM FÜR ELEKTRONISCHE ERSCHLIESSUNGS- UND
+#    PUBLIKATIONSVERFAHREN IN DEN GEISTESWISSENSCHAFTEN
+#                 AN DER UNIVERSITÄT TRIER
+#
+# All Rights reserved.
+# No part of this publication may be reprinted or reporduced
+# or utilized in any form or by any electronic (online or
+# offline), mechnical or other means without permissions in
+# writing from the publisher.
+# CD-ROM copyright by HWB, TB, RC, KG, VH and TS.
+# 
+# Trier, November 2002
+# =========================================================
+# TclPro::Compiler::Include
+
+if {[catch {package require tbcload 1.3} err] == 1} {
+    error "The TclPro ByteCode Loader is not available or does not support the correct version"
+}
+tbcload::bceval {
+TclPro ByteCode 1 0 1.3 8.3
+2 0 22 8 0 0 20 0 4 2 2 -1 -1
+22
++EE<!(H&s!/HW<!.E`<!3)Ppv%!!
+2
+,B!
+2
+6?!
+8
+x
+4
+,CHr@
+x
+10
+H/UN:4<XeDX(%
+x
+11
+F/uDF3+uD+8%?.
+p
+78 0 1730 63 4 0 440 2 6 78 126 -1 -1
+1730
+w0E<!-BW<!8u&s!0E&s!(NA9vg=2*0NWnov%Mi<!6n2g%5cSs!A>L3wW4uH/xGl!,0iys!>e
+bt!2ZW<!;7`g%wBv!!JT*v!(?9V,Lc%p+2#,:vWu&v!)ZPn-I*<<!P4E<!M18U-66nA^0Api
+w;M60%7le9v@,f=!B8#>!Kqgqv,9E<!:>|X!<J#t!:;o=!@2o=!G>,>!BrSs!0Apiw;M60%7
+le9v@,f=!FPG>!Kqgqv,9E<!:>|X!<J#t!:;o=!@2o=!I>,>!BrSs!0Apiw;M60%7le9v@,f
+=!HyY>!Kqgqv,9E<!:>|X!<J#t!:;o=!@2o=!K>,>!BrSs!0Apiw;M60%7le9v@,f=!Jhk>!
+KqgqvJ5v!!3bK<!:>|X!<J#t!:;o=!@2o=!D>,>!IrSs!0Apiw;M60%7le9v@,f=!EJ>>!RF
+Rrv,9E<!:>|X!<J#t!:;o=!@2o=!H>,>!IrSs!0Apiw;M60%7le9v@,f=!GVP>!RFRrv,9E<
+!:>|X!<J#t!:;o=!@2o=!J>,>!IrSs!0Apiw;M60%7le9v@,f=!Ibb>!RFRrv,9E<!:>|X!<
+J#t!:;o=!@2o=!L>,>!h5Jp+0iys!FgB?)wfs<!JSa<!YNBU#3f=6#fC&=F?s|Z)#dU^20Ap
+iw;M60%7le9v@,f=!N+;?!V^!sv,9E<!:>|X!<J#t!:;o=!@2o=!R>,>!l5Jp+Y3E<!:TN<!
+@)oTvC(RK%NQw!*M<(w)1NW<!9qH4w;vR4w<%3g%@.mf%RpNH&GqPpvOr=6#/H<<!BcbsvJm
+m<vRAnQ,4H<<!NGC7-C4E<!a(r9-x3E<!:TN<!@)oTvC(RK%S)WT+V8ro+1NW<!9qH4w;vR4
+w<%3g%@.mf%W*OH&P7Qpv%&G<!:>|X!<J#t!:;o=!@2o=!U>,>!IrSs!0Apiw;M60%7le9v@
+,f=!UU%@!RFRrvNSa<!5f&v!B8:V,Lc%p+2#,:vWu&v!)ZPn-h9I<!A.#S5+,G<!:>|X!<J#
+t!:;o=!@2o=!Z>,>!WrSs!0Apiw;M60%7le9v@,f=!ZsR@!`E'tv*&uA!9qH4w;vR4w<%3g%
+@.mf%Z3OH&GqPpv'3E<!:TN<!@)oTvC(RK%Zhji-M<(w)Swn<v6ML3w#|^L/NK`W!P&YQ#xm
+%4wV:)I/pAv!!/SK<!F=#S5H!!!!S5E<!:TN<!@)oTvC(RK%|.gf.`=--/1NW<!9qH4w;vR4
+w<%3g%@.mf%aHOH&ZUQpv'3E<!:TN<!@)oTvC(RK%`Icc/`=--/1NW<!9qH4w;vR4w<%3g%@
+.mf%cNOH&ZUQpv'3E<!:TN<!@)oTvC(RK%bxDE0`=--/1NW<!9qH4w;vR4w<%3g%@.mf%eTO
+H&ZUQpv'3E<!:TN<!@)oTvC(RK%dm%'1`=--/1NW<!9qH4w;vR4w<%3g%@.mf%gZOH&ZUQpv
+D!!!!N5E<!:TN<!@)oTvC(RK%|.gf.M<(w)1NW<!9qH4w;vR4w<%3g%@.mf%aHOH&GqPpv'3
+E<!:TN<!@)oTvC(RK%`Icc/M<(w)1NW<!9qH4w;vR4w<%3g%@.mf%cNOH&GqPpv'3E<!:TN<
+!@)oTvC(RK%bxDE0M<(w)1NW<!9qH4w;vR4w<%3g%@.mf%eTOH&GqPpv'3E<!:TN<!@)oTvC
+(RK%dm%'1M<(w)1NW<!9qH4w;vR4w<%3g%@.mf%gZOH&GqPpvOr=6#/H<<!WcbsvJmm<vRAn
+Q,4H<<!NGC7-C4E<!!)r9-x3E<!:TN<!@)oTvC(RK%h<=?2kKXZ21NW<!9qH4w;vR4w<%3g%
+@.mf%liOH&e!Rpv%&G<!:>|X!<J#t!:;o=!@2o=!j>,>!IrSs!0Apiw;M60%7le9v@,f=!j)
+:B!RFRrvNSa<!5f&v!Wv;V,Lc%p+2#,:vWu&v!)ZPn-H!!!!%5E<!&)r9-u3E<!:TN<!@)oT
+vC(RK%mior3p#6941NW<!9qH4w;vR4w<%3g%@.mf%q#PH&j0Rpv'3E<!:TN<!@)oTvC(RK%p
+/lo4p#694IufE:0Apiw;M60%7le9v@,f=!m;UB!RFRrv,9E<!:>|X!<J#t!:;o=!@2o=!q>,
+>!IrSs!0Apiw;M60%7le9v@,f=!pMpB!RFRrvNSa<!KI%!vHU%!sV'xK!I7D?!IU%!sna/E!
+(!!
+78
+/u46#E_^7#T,Ny)%M'B)8q>Z*4M'B)6Sj`(#S0B)w0.@)7Sj`(#S0B)*KI@)4M'B)8eKB)4M
+'B)6Sj`(#S0B)'9.@)5P'B)KE!
+126
+(w*!!Dg@m#HD|=!'ZnovM13<!gr`-sG!v3H4M'B)3GsA)4M'B)To3<!tha/E2Aa&)!w!!!RI
+d&)To3<!tha/E2Aa&)v-<<!E&*!!Za,B)4M'B)3J'B)4M'B)To3<!tha/E2Aa&)!w!!!:&*!
+!OC,B)2Da&)'*!
+63
+x
+6
+q'-W@Dhw
+x
+8
+i4eX?4|k)F
+i
+0
+x
+7
+#XmIDeI-,
+x
+6
+uO|;@ISw
+x
+6
+t*Z8AT7%
+x
+3
+#EW*
+x
+0
+
+i
+1
+x
+12
+_a.'=DA9b;X_>x=
+x
+6
+'IIhCJnw
+x
+11
+WtGD<<E)5Ba@c,
+x
+7
+TTu87O)_%
+x
+1
+M!
+x
+3
+^_#,
+x
+9
+sN;oA/#lcE1v
+x
+3
+)V8&
+x
+11
+AP5cE%KTfDit|+
+x
+4
+uf_TA
+x
+3
+*yA&
+x
+5
+#<|^FS!
+x
+5
+ouy^FS!
+x
+3
+Y^M-
+x
+3
+|ST+
+x
+4
+i^Bq@
+x
+5
+_1sp@7v
+x
+4
+tH..D
+x
+9
+WtGD<3!-<@9v
+x
+2
+d`v
+x
+3
+|Y|+
+x
+2
+ecv
+x
+5
+1QG)F1v
+x
+10
+WtGD<?lmIDOSw
+x
+2
+p`v
+x
+9
+oi<NCpm#SA:v
+x
+2
+qcv
+x
+6
+epbSACSw
+x
+11
+WtGD<,'7hCSef+
+x
+2
+n`v
+x
+6
+'9TfDTnw
+x
+2
+ocv
+x
+4
+75^0D
+x
+9
+WtGD<KU!wH9v
+x
+2
+b`v
+x
+6
+(RIIDCSw
+x
+2
+ccv
+x
+3
+un7&
+x
+3
+!u@&
+x
+3
+,M8&
+x
+3
+-SA&
+x
+4
+,Lvk0
+x
+4
+-U=11
+x
+10
+epCkB,'nlBTnw
+x
+15
+WtGD<(L>nA,W5DFh^c,
+x
+2
+a`v
+x
+6
+?)p,EHSw
+x
+2
+bcv
+x
+7
+-*BbE`a;-
+x
+12
+WtGD<<E)5B(!T(F
+x
+4
+;ugl0
+x
+10
+kpP4BrEqgCQSw
+x
+4
+<).31
+x
+6
++4ujBpcv
+4
+L 1 29 1688 1727 1718 -1
+L 1 1718 3 1727 -1 -1
+L 2 74 1631 1715 1706 -1
+L 2 1706 3 1715 -1 -1
+0
+1 4
+6
+4<nlBTnw
+0 1 257
+x
+0
+
+1
+Cv
+1 0 1
+6
+uO|;@ISw
+2 0 1
+1
+5v
+3 0 1
+x
+11
+^-l4BUDnFDvnl,
+x
+0
+
+p
+3 0 21 4 0 0 12 0 3 3 3 -1 -1
+21
+w0E<!-BW<!(?W<!5uSTv@_,#!z
+3
+*B3!
+3
+>)s!
+4
+x
+6
+q'-W@Dhw
+x
+8
+i4eX?4|k)F
+x
+10
+WtGD<DebDFXqw
+x
+2
+*Tv
+0
+0
+0 1
+8
+i4eX?4|k)F
+0 0 2
+x
+15
+rpwhC;Z2b3<?<+EfqT+
+0
+0
+}

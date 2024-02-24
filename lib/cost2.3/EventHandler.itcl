@@ -1,0 +1,15 @@
+#
+# Base itcl class for Cost event handlers
+#
+
+itcl_class EventHandler {
+    method START {} {}
+    method END {} {}
+    method CDATA {} {}
+    method SDATA {} {}
+    method RE {} {}
+    method DATAENT {} {}
+    method PI {} {}
+}
+
+
